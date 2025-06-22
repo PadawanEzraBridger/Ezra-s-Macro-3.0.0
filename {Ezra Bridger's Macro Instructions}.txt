@@ -1,0 +1,72 @@
+(full screen the window to see better)									{Ezra Bridger's Macro}																											
+													
+											 		    [𝙃𝙤𝙬 𝙩𝙤 𝙪𝙨𝙚]
+ 	     
+										-Requires AutoHotKey
+											-go to https://www.autohotkey.com and install v2 from there
+													-To start the autoclicker hold down F1. To stop it, then you have to let go. 
+
+										-If you have autohotkey installed, the script will have an h on the file cover.
+											 Opening that up will start the program.
+										
+	  
+										-Put your mouse where you want it to click
+										
+										Hold F1 to start the autoclicker/let go of F1 to stop it.
+										
+										
+
+													  [𝙚𝙣𝙙 𝙤𝙛 𝙝𝙤𝙬 𝙩𝙤 𝙪𝙨𝙚]
+													
+													
+													
+													
+													
+																																			
+																																     [𝙃𝙤𝙬 𝙩𝙤 𝙨𝙖𝙫𝙚 𝙖 𝙘𝙪𝙨𝙩𝙤𝙢 𝙨𝙘𝙧𝙞𝙥𝙩?]
+																																   (for those who want to learn ahk language)
+
+
+																										-When saving a script Make sure the file name has .ahk at the end,
+																														 make sure the the file type is selected on all filed																									
+																																If it is not set as all files when saved,
+												    																					   It will save as an ahk.txt, 
+												 																				   	which is what we don't want.
+
+												  																			   		  [𝙚𝙣𝙙 𝙤𝙛 𝙝𝙤𝙬 𝙩𝙤 𝙘𝙪𝙨𝙩𝙤𝙢 𝙨𝙘𝙧𝙞𝙥𝙩]
+													
+													
+													
+													
+
+													
+													
+                              
+
+ 													_______   ___ ________ 
+													|             ||       |            |
+													|__     __||       |            |
+													     |   |   ||       |    |  |   |
+													     |   | __|       |    |_|   |
+													   _|   |              |            |
+													  |___|_______|______|(The Jedi Order)(something cool planed with this name maybe
+
+
+													
+													
+													
+													
+													
+													
+													
+													
+													
+													
+													
+													
+													
+													
+													
+													
+													
+															
